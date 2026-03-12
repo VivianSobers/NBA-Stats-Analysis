@@ -1,4 +1,4 @@
-# nba-stats-analysis
+# NBA-Stats-Analysis
 
 ## Overview
 
