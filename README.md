@@ -4,8 +4,6 @@
 
 This project scrapes NBA 2024 season player statistics from [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2024_totals.html), cleans and preprocesses the data, performs descriptive statistical analysis, and visualizes key patterns across player positions and performance metrics.
 
-Done as part of **UE24MA242A — Mathematics for Computer Science Engineers** at PES University (Aug–Dec 2025).
-
 ---
 
 ### 1. Web Scraping
